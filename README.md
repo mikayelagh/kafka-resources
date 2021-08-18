@@ -13,3 +13,8 @@ https://docs.confluent.io/platform/current/streams-ksql.html
 https://docs.confluent.io/platform/current/clients/index.html 
 
 https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/
+
+## Kafka Utilities
+
+Kafkacat: https://docs.confluent.io/platform/current/app-development/kafkacat-usage.html
+
