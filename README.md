@@ -8,3 +8,6 @@ https://cwiki.apache.org/confluence/display/KAFKA/Compatibility+Matrix
 
 ## ksqlDB and Kafka Streams
 https://docs.confluent.io/platform/current/streams-ksql.html
+
+## Kafka Clients
+https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/
