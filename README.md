@@ -13,6 +13,8 @@ https://docs.confluent.io/platform/current/control-center/security/c3-rbac.html#
 
 https://docs.confluent.io/platform/current/multi-dc-deployments/replicator/replicator-docker-tutorial.html#replicator Replicator Demo
 
+https://docs.confluent.io/platform/current/security/general-overview.html#security  Security
+
 
 
 
