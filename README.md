@@ -62,6 +62,8 @@ https://docs.confluent.io/platform/current/control-center/installation/clients.h
 
 Kafkacat: https://docs.confluent.io/platform/current/app-development/kafkacat-usage.html
 
+kcat is the project formerly known as as kafkacat https://github.com/edenhill/kcat
+
 Kafdrop – Kafka Web UI https://github.com/obsidiandynamics/kafdrop
 
 Kryptonite - An SMT for Kafka Connect https://github.com/hpgrahsl/kafka-connect-transform-kryptonite
@@ -75,3 +77,5 @@ Burrow: Kafka Consumer Monitoring (LinkedIn) https://engineering.linkedin.com/ap
 
 Parallel Apache Kafka client wrapper with client side queueing, a simpler consumer/producer API with key concurrency and extendable non-blocking IO processing.
 https://github.com/confluentinc/parallel-consumer
+
+CLI for Kafka Connect https://github.com/kcctl/kcctl
