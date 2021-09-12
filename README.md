@@ -3,6 +3,7 @@
 ## Kafka Docs
 https://kafka.apache.org/documentation/
 
+
 https://docs.confluent.io/platform/current/tutorials/cp-demo/docs/on-prem.html
 
 https://docs.confluent.io/platform/current/control-center/brokers.html#c3-brokers-consumption-metrics C3
@@ -38,16 +39,16 @@ https://docs.confluent.io/platform/current/schema-registry/schema-validation.htm
 https://cwiki.apache.org/confluence/display/KAFKA/Compatibility+Matrix
 
 ## ksqlDB and Kafka Streams
+
 https://docs.confluent.io/platform/current/streams-ksql.html
+
+https://kafka.apache.org/documentation/streams/
 
 ## Kafka Clients
 https://docs.confluent.io/platform/current/clients/index.html 
 
 https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/
 
-## Kafka Utilities
-
-Kafkacat: https://docs.confluent.io/platform/current/app-development/kafkacat-usage.html
 
 ## Monitoring
 https://github.com/confluentinc/jmx-monitoring-stacks
@@ -57,3 +58,20 @@ https://www.confluent.io/blog/confluent-datadog-integration-kafka-monitoring-met
 https://docs.confluent.io/platform/current/control-center/installation/clients.html. - Interceptors
 
 
+## Kafka Utilities
+
+Kafkacat: https://docs.confluent.io/platform/current/app-development/kafkacat-usage.html
+
+Kafdrop – Kafka Web UI https://github.com/obsidiandynamics/kafdrop
+
+Kryptonite - An SMT for Kafka Connect https://github.com/hpgrahsl/kafka-connect-transform-kryptonite
+
+Fluent Kafka Streams Tests https://github.com/bakdata/fluent-kafka-streams-tests
+
+Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availability, offsets commit availability & latency, message loss rate and more.
+https://github.com/linkedin/kafka-monitor
+
+Burrow: Kafka Consumer Monitoring (LinkedIn) https://engineering.linkedin.com/apache-kafka/burrow-kafka-consumer-monitoring-reinvented
+
+Parallel Apache Kafka client wrapper with client side queueing, a simpler consumer/producer API with key concurrency and extendable non-blocking IO processing.
+https://github.com/confluentinc/parallel-consumer
