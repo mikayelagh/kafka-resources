@@ -79,3 +79,15 @@ Parallel Apache Kafka client wrapper with client side queueing, a simpler consum
 https://github.com/confluentinc/parallel-consumer
 
 CLI for Kafka Connect https://github.com/kcctl/kcctl
+
+
+## Examples
+
+https://github.com/streamthoughts/kafka-streams-examples/blob/master/src/main/java/io/streamthoughts/kafka/streams/examples/wordcount/topology/WordCountProcessorTopology.java
+https://github.com/streamthoughts/kafka-streams-examples/blob/master/src/main/java/io/streamthoughts/kafka/streams/examples/TopologyDriverConfig.java
+https://github.com/streamthoughts/kafka-streams-examples/blob/master/src/main/java/io/streamthoughts/kafka/streams/examples/utils/Utils.java
+
+https://issues.apache.org/jira/browse/KAFKA-8296
+
+
+
