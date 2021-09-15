@@ -80,6 +80,9 @@ https://github.com/confluentinc/parallel-consumer
 
 CLI for Kafka Connect https://github.com/kcctl/kcctl
 
+https://github.com/linkedin/cruise-control
+
+
 
 ## Examples
 
