@@ -30,6 +30,8 @@ https://docs.confluent.io/platform/current/control-center/security/c3-rbac.html#
 
 https://docs.confluent.io/platform/current/security/general-overview.html#security  Security
 
+https://github.com/confluentinc/confluent-platform-security-tools
+
 
 ## Schema
 https://docs.confluent.io/platform/current/schema-registry/schema-validation.html#schema-validation
@@ -82,9 +84,9 @@ CLI for Kafka Connect https://github.com/kcctl/kcctl
 
 https://github.com/linkedin/cruise-control
 
+Karapace - Your Kafka essentials in one tool https://github.com/aiven/karapace. https://karapace.io/
 
-
-## Examples
+## Examples and POCs
 
 https://github.com/streamthoughts/kafka-streams-examples/blob/master/src/main/java/io/streamthoughts/kafka/streams/examples/wordcount/topology/WordCountProcessorTopology.java
 https://github.com/streamthoughts/kafka-streams-examples/blob/master/src/main/java/io/streamthoughts/kafka/streams/examples/TopologyDriverConfig.java
@@ -93,4 +95,5 @@ https://github.com/streamthoughts/kafka-streams-examples/blob/master/src/main/ja
 https://issues.apache.org/jira/browse/KAFKA-8296
 
 
+ksqlDB GraphQL poc https://github.com/gklijs/ksqlDB-GraphQL-poc/tree/just-persons
 
