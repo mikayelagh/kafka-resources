@@ -86,6 +86,8 @@ https://github.com/linkedin/cruise-control
 
 Karapace - Your Kafka essentials in one tool https://github.com/aiven/karapace. https://karapace.io/
 
+https://softwaremill.com/kafka-visualisation/ - Kafka Visualization
+
 ## Examples and POCs
 
 https://github.com/streamthoughts/kafka-streams-examples/blob/master/src/main/java/io/streamthoughts/kafka/streams/examples/wordcount/topology/WordCountProcessorTopology.java
