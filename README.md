@@ -88,6 +88,10 @@ Karapace - Your Kafka essentials in one tool https://github.com/aiven/karapace. 
 
 https://softwaremill.com/kafka-visualisation/ - Kafka Visualization
 
+## DevOps
+https://github.com/kafka-ops/julie
+
+
 ## Examples and POCs
 
 https://github.com/streamthoughts/kafka-streams-examples/blob/master/src/main/java/io/streamthoughts/kafka/streams/examples/wordcount/topology/WordCountProcessorTopology.java
