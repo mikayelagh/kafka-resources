@@ -91,6 +91,13 @@ https://softwaremill.com/kafka-visualisation/ - Kafka Visualization
 ## DevOps
 https://github.com/kafka-ops/julie
 
+https://julieops.readthedocs.io/en/latest/index.html
+
+https://videos.confluent.io/watch/dGXUXUvF5xtRDix7xTPPzt
+
+https://www.openservicebrokerapi.org/
+
+
 
 ## Examples and POCs
 
