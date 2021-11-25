@@ -88,6 +88,9 @@ Karapace - Your Kafka essentials in one tool https://github.com/aiven/karapace. 
 
 https://softwaremill.com/kafka-visualisation/ - Kafka Visualization
 
+https://github.com/kcctl/kcctl
+Kafka connect utility
+
 ## DevOps
 https://github.com/kafka-ops/julie
 
