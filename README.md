@@ -100,6 +100,9 @@ https://videos.confluent.io/watch/dGXUXUvF5xtRDix7xTPPzt
 
 https://www.openservicebrokerapi.org/
 
+## HA, DR, Deployment Architecture
+
+https://www.confluent.io/blog/how-to-survive-a-kafka-outage/
 
 
 ## Examples and POCs
