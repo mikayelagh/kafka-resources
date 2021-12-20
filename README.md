@@ -106,6 +106,8 @@ https://videos.confluent.io/watch/dGXUXUvF5xtRDix7xTPPzt
 
 https://www.openservicebrokerapi.org/
 
+https://github.com/strimzi  Apache Kafka on k8s
+
 ## HA, DR, Deployment Architecture
 
 https://www.confluent.io/blog/how-to-survive-a-kafka-outage/
