@@ -18,6 +18,12 @@ MDS https://docs.confluent.io/platform/current/kafka/configure-mds/index.html
 
 https://www.confluent.io/white-paper/optimizing-your-apache-kafka-deployment/. Optimization
 
+
+## Kafka Internals
+
+https://strimzi.io/blog/2021/12/17/kafka-segment-retention/. Deep dive into Apache Kafka storage internals: segments, rolling and retention
+
+
 ## KSQL
 https://docs.confluent.io/platform/current/ksqldb/integrate-ksql-with-confluent-control-center.html#configuration-settings-for-ksqldb-and-c3-short
 
