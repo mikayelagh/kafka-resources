@@ -106,7 +106,7 @@ https://videos.confluent.io/watch/dGXUXUvF5xtRDix7xTPPzt
 
 https://www.openservicebrokerapi.org/
 
-https://github.com/strimzi  Apache Kafka on k8s
+https://github.com/strimzi  Apache Kafka on k8s, A Kubernetes and OpenShift operator for Apache Kafka
 
 ## HA, DR, Deployment Architecture
 
