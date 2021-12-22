@@ -114,6 +114,11 @@ https://www.confluent.io/blog/how-to-survive-a-kafka-outage/
 
 https://www.wise.jobs/2021/09/23/running-kafka-in-kubernetes-part-1-why-we-migrated-our-kafka-clusters-to-kubernetes/
 
+https://www.confluent.io/kafka-summit-london18/kafka-in-containers-in-docker-in-kubernetes-in-the-cloud/
+
+https://www.confluent.io/kafka-summit-lon19/running-kafka-in-kubernetes-practical-guide/
+
+
 
 ## Examples and POCs
 
