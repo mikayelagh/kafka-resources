@@ -74,6 +74,8 @@ kcat is the project formerly known as as kafkacat https://github.com/edenhill/kc
 
 Kafdrop – Kafka Web UI https://github.com/obsidiandynamics/kafdrop
 
+Kafka GUI - https://github.com/tchiotludo/akhq
+
 Kryptonite - An SMT for Kafka Connect https://github.com/hpgrahsl/kafka-connect-transform-kryptonite
 
 Fluent Kafka Streams Tests https://github.com/bakdata/fluent-kafka-streams-tests
