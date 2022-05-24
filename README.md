@@ -19,9 +19,11 @@ MDS https://docs.confluent.io/platform/current/kafka/configure-mds/index.html
 https://www.confluent.io/white-paper/optimizing-your-apache-kafka-deployment/. Optimization
 
 
-## Kafka Internals
+## Kafka Internals/Theory
 
 https://strimzi.io/blog/2021/12/17/kafka-segment-retention/. Deep dive into Apache Kafka storage internals: segments, rolling and retention
+
+https://developers.redhat.com/articles/2022/05/03/fine-tune-kafka-performance-kafka-optimization-theorem
 
 
 ## KSQL
