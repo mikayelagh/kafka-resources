@@ -92,7 +92,11 @@ https://github.com/confluentinc/parallel-consumer
 
 CLI for Kafka Connect https://github.com/kcctl/kcctl
 
-https://github.com/linkedin/cruise-control
+(!) https://github.com/linkedin/cruise-control
+
+(!) https://github.com/yahoo/CMAK
+
+(!) https://github.com/echojc/kafka-offset-exporter
 
 Karapace - Your Kafka essentials in one tool https://github.com/aiven/karapace. https://karapace.io/
 
