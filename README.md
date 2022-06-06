@@ -116,6 +116,9 @@ https://www.openservicebrokerapi.org/
 
 https://github.com/strimzi  Apache Kafka on k8s, A Kubernetes and OpenShift operator for Apache Kafka
 
+https://slack.engineering/building-self-driving-kafka-clusters-using-open-source-components/
+
+
 ## HA, DR, Deployment Architecture, K8S
 
 https://www.confluent.io/blog/how-to-survive-a-kafka-outage/
