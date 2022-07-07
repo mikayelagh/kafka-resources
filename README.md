@@ -78,6 +78,10 @@ Kafdrop – Kafka Web UI https://github.com/obsidiandynamics/kafdrop
 
 Kafka GUI - https://github.com/tchiotludo/akhq
 
+Kafka Ui - https://github.com/provectus/kafka-ui.   ,  https://akhq.io/
+
+Redpanda Kafka Console - https://github.com/redpanda-data/console
+
 Kryptonite - An SMT for Kafka Connect https://github.com/hpgrahsl/kafka-connect-transform-kryptonite
 
 Fluent Kafka Streams Tests https://github.com/bakdata/fluent-kafka-streams-tests
