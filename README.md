@@ -133,6 +133,7 @@ https://www.confluent.io/kafka-summit-london18/kafka-in-containers-in-docker-in-
 
 https://www.confluent.io/kafka-summit-lon19/running-kafka-in-kubernetes-practical-guide/
 
+https://learnk8s.io/kafka-ha-kubernetes
 
 
 ## Examples and POCs
