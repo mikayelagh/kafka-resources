@@ -122,6 +122,8 @@ https://github.com/strimzi  Apache Kafka on k8s, A Kubernetes and OpenShift oper
 
 https://slack.engineering/building-self-driving-kafka-clusters-using-open-source-components/
 
+https://github.com/StephenSorriaux/ansible-kafka-admin
+
 
 ## HA, DR, Deployment Architecture, K8S
 
