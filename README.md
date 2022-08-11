@@ -137,6 +137,7 @@ https://www.confluent.io/kafka-summit-lon19/running-kafka-in-kubernetes-practica
 
 https://learnk8s.io/kafka-ha-kubernetes
 
+https://github.com/grepplabs/kafka-proxy 
 
 ## Examples and POCs
 
