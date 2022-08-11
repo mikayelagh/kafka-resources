@@ -109,6 +109,8 @@ https://softwaremill.com/kafka-visualisation/ - Kafka Visualization
 https://github.com/kcctl/kcctl
 Kafka connect utility
 
+https://kafka.esque.at/
+
 ## DevOps
 https://github.com/kafka-ops/julie
 
