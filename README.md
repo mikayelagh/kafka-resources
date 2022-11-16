@@ -112,6 +112,9 @@ Kafka connect utility
 https://kafka.esque.at/
 
 ## DevOps
+
+https://github.com/HermesGermany/galapagos
+
 https://github.com/kafka-ops/julie
 
 https://julieops.readthedocs.io/en/latest/index.html
